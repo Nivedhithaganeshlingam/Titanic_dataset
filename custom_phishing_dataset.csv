@@ -1,0 +1,11 @@
+URL,Have_IP,Have_At_Symbol,URL_Length,Is_Https,Is_Phishing
+http://192.168.1.1/login,1,0,24,0,1
+https://www.google.com,0,0,22,1,0
+http://phishingsite.com@malicious.com,0,1,38,0,1
+http://example.com/update-account,0,0,33,0,1
+https://secure.paypal.com,0,0,26,1,0
+http://freebonus.ru,0,0,22,0,1
+http://malware.org/steal-info,0,0,30,0,1
+https://github.com,0,0,19,1,0
+http://verify-login.com,0,0,26,0,1
+https://apple.com,0,0,18,1,0
